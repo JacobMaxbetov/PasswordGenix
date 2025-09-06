@@ -1,2 +1,5 @@
 Run PasswordGenix.html if you want to launch html version of Genix
 Run PasswordGenix.py if you want to launch python version of Genix
+Need to run .py version: Flask(lib)
+
+pip install pip install flask
